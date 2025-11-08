@@ -11,6 +11,8 @@
   "license": "ISC",
   "type": "commonjs",
   "devDependencies": {
-    "gulp": "^5.0.1"
+    "del": "^6.0.0",
+    "gulp": "^5.0.1",
+    "gulp-less": "^5.0.0"
   }
 }
