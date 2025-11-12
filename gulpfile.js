@@ -182,3 +182,10 @@ exports.default = build2
 
 /* #endregion 13.8 Обработка скриптов */
 
+/* #region 13.10 Autoprefixer, Sourcemaps, Babel  */
+
+const sourcemaps = require('gulp-sourcemaps')
+
+// ... задолбался
+
+/* #endregion 13.10 Autoprefixer, Sourcemaps, Babel */
